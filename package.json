@@ -1,0 +1,19 @@
+{
+  "name": "subscriptionsmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jojohersh/subscriptionManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jojohersh/subscriptionManager/issues"
+  },
+  "homepage": "https://github.com/Jojohersh/subscriptionManager#readme"
+}
